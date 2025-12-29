@@ -130,12 +130,11 @@ ul.task-list li input[type="checkbox"] {
 </li>
 <li>Demonstrated that a <strong>regularized logistic regression model matched the predictive performance</strong> of more complex classifiers while enabling clear, interpretable feature effects<br>
 </li>
+<li>Used <strong>value-based evaluation metrics</strong> to maximize business impact rather than pure predictive ability</li>
 <li>Ranked the <strong>top 10–15% of merchants</strong> for targeted marketing and used model coefficients to identify the primary drivers of subscription adoption</li>
 </ul>
 <p><strong>What I’d do next</strong></p>
 <ul>
-<li>Introduce <strong>cost-sensitive evaluation metrics</strong> aligned with marketing and sales capacity constraints<br>
-</li>
 <li>Model adoption timing using <strong>survival or hazard-based approaches</strong> rather than static classification<br>
 </li>
 <li>Validate targeting strategies via <strong>offline backtesting</strong> paired with online experimentation assumptions<br>
@@ -265,7 +264,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/Jeremy-Thomas1\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
