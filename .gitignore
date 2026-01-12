@@ -1,2 +1,6 @@
+# Quarto generated files
+_site/
+site_libs/
+.DS_Store
 /.quarto/
 **/*.quarto_ipynb
