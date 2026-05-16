@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jeremy Thomas",
     "section": "",
-    "text": "Welcome to my website!\n\n\n\nMy name is Jeremy Thomas and I’m a PhD candidate at the University of British Columbia. I’m particularly interested in inference (e.g., Bayesian) models of human motor behaviour and elucidating computational principles of motor skill learning. The hope with this research is that we can gain an increased ability to intervene in the sensorimotor system for health and disease, and perhaps even obtain neuroscience-inspired inference algorithms with use cases in robotics.\nHave a look at samples of my work on the Projects page!"
+    "text": "Welcome to my website!\n\n\n\nMy name is Jeremy Thomas and I’m a PhD candidate at the University of British Columbia. My focus is on Computational Neuroscience I’m particularly interested in modelling human behaviour as probabilistic inference, and focus on questions like how cognition is involved in motor skill learning. The desired outcome with this research is an increased ability to intervene in the human sensorimotor system for health and disease.\nI am also like to do fun side-projects and apply the computational tools that I use in my research to business-use cases.\nHave a look at samples of my work on the Projects page!"
   },
   {
     "objectID": "projects_old.html",
@@ -32,20 +32,20 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "GitHub Repository\nPython · Classification · Regression · Tree-based models\n\nBuilt an end-to-end modeling pipeline to predict product adoption across 25,000+ merchants using 1.5M+ transaction-level time-series observations.\nEngineered temporal behavioural features from transactional time-series data (e.g., usage consistency and variability)..\nBenchmarked regularized logistic regression against XGBoost using cross-validation, showing comparable predictive performance with improved interpretability.\nRanked the top 10–15% of merchants for targeted marketing and used model coefficients to identify key drivers of subscription adoption.\n\nWhat I’d do next\n\nPredict product adoption timing using survival based approaches rather than static classification\n\nValidate targeting strategies via offline backtesting paired with online experimentation assumptions\n\n\n\n\n\nPython · Experimentation · Unsupervised Learning\n\nDesigned and analyzed a large-scale motor learning experiment (10,000+ trials) using high-resolution motion-tracking data\n\nEngineered kinematic time-series features and applied hidden Markov models to identify latent movement regimes.\nQuantified individual differences in adaptation strategies, moving beyond group-level averages\n\nEmphasized interpretability of unsupervised results\n\nWhat I’d do next\n\nEvaluate cluster stability using bootstrap or permutation-based methods\n\nExtend the analysis to link inferred strategies with downstream performance or transfer effects"
-  },
-  {
-    "objectID": "projects.html#predicting-product-adoption-for-online-payment-software",
-    "href": "projects.html#predicting-product-adoption-for-online-payment-software",
-    "title": "Projects",
-    "section": "",
-    "text": "GitHub Repository\nPython · Classification · Regression · Tree-based models\n\nBuilt an end-to-end modeling pipeline to predict product adoption across 25,000+ merchants using 1.5M+ transaction-level time-series observations.\nEngineered temporal behavioural features from transactional time-series data (e.g., usage consistency and variability)..\nBenchmarked regularized logistic regression against XGBoost using cross-validation, showing comparable predictive performance with improved interpretability.\nRanked the top 10–15% of merchants for targeted marketing and used model coefficients to identify key drivers of subscription adoption.\n\nWhat I’d do next\n\nPredict product adoption timing using survival based approaches rather than static classification\n\nValidate targeting strategies via offline backtesting paired with online experimentation assumptions"
+    "text": "Python · Experimentation · Unsupervised Learning\n\nI designed and analyzed a large-scale motor skill learning experiment (10,000+ trials), collecting high-resolution motion-tracking data\n\nI engineered time-series features and applied a hidden Markov model to identify latent movement strategies.\nI quantified individual differences in strategies.\nThis modelling work helps us understand transitions in strategy-use within a skill learning experiment.\n\n\n\n\n\nGitHub Repository\nPython · Classification · Regression · Tree-based models\n\nI built an end-to-end modeling pipeline to predict the adoption of a software product adoption using data from 25,000+ clients and 1.5M+ transaction-level time-series observations.\nThe model includes engineered temporal behavioural features from transactional time-series data (e.g., usage consistency and variability)..\nI compared different approaches like regularized logistic regression and XGBoost.\nThe main deliverable was a ranking table of the top 10–15% of merchants for targeted marketing. I also used model coefficients to identify drivers of subscription adoption."
   },
   {
     "objectID": "projects.html#unsupervised-time-series-modeling-of-human-motor-learning",
     "href": "projects.html#unsupervised-time-series-modeling-of-human-motor-learning",
     "title": "Projects",
     "section": "",
-    "text": "Python · Experimentation · Unsupervised Learning\n\nDesigned and analyzed a large-scale motor learning experiment (10,000+ trials) using high-resolution motion-tracking data\n\nEngineered kinematic time-series features and applied hidden Markov models to identify latent movement regimes.\nQuantified individual differences in adaptation strategies, moving beyond group-level averages\n\nEmphasized interpretability of unsupervised results\n\nWhat I’d do next\n\nEvaluate cluster stability using bootstrap or permutation-based methods\n\nExtend the analysis to link inferred strategies with downstream performance or transfer effects"
+    "text": "Python · Experimentation · Unsupervised Learning\n\nI designed and analyzed a large-scale motor skill learning experiment (10,000+ trials), collecting high-resolution motion-tracking data\n\nI engineered time-series features and applied a hidden Markov model to identify latent movement strategies.\nI quantified individual differences in strategies.\nThis modelling work helps us understand transitions in strategy-use within a skill learning experiment."
+  },
+  {
+    "objectID": "projects.html#predicting-client-product-adoption-of-online-payment-software",
+    "href": "projects.html#predicting-client-product-adoption-of-online-payment-software",
+    "title": "Projects",
+    "section": "",
+    "text": "GitHub Repository\nPython · Classification · Regression · Tree-based models\n\nI built an end-to-end modeling pipeline to predict the adoption of a software product adoption using data from 25,000+ clients and 1.5M+ transaction-level time-series observations.\nThe model includes engineered temporal behavioural features from transactional time-series data (e.g., usage consistency and variability)..\nI compared different approaches like regularized logistic regression and XGBoost.\nThe main deliverable was a ranking table of the top 10–15% of merchants for targeted marketing. I also used model coefficients to identify drivers of subscription adoption."
   }
 ]
