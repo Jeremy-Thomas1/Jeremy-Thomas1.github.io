@@ -32,14 +32,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Python · Experimentation · Unsupervised Learning\n\nDesigned and analyzed a large-scale motor skill learning experiment (10,000+ trials), collecting high-resolution motion-tracking data\n\nEngineered time-series features and applied a hidden Markov model to identify latent movement strategies\nQuantified individual differences in strategies\nThis modelling work helps us understand transitions in strategy-use within a skill learning experiment\n\n\n\n\n\nGitHub Repository\nPython · Classification · Regression · Tree-based models\n\nBuilt an end-to-end modeling pipeline to predict the adoption of an add-on for a software product using data from 25,000+ clients and 1.5M+ transaction-level time-series observations.\nEngineered features from time-series data that captured the business periodicity, which turned out to predict client adoption\nCompared predictive models from logistic regression and XGBoost to achieve predictive power with minimal model complexity\nMain deliverable was a ranking table of the top 10–15% of merchants for targeted marketing. I also used model coefficients to identify drivers of subscription adoption"
-  },
-  {
-    "objectID": "projects.html#unsupervised-time-series-modeling-of-human-motor-learning",
-    "href": "projects.html#unsupervised-time-series-modeling-of-human-motor-learning",
-    "title": "Projects",
-    "section": "",
-    "text": "Python · Experimentation · Unsupervised Learning\n\nDesigned and analyzed a large-scale motor skill learning experiment (10,000+ trials), collecting high-resolution motion-tracking data\n\nEngineered time-series features and applied a hidden Markov model to identify latent movement strategies\nQuantified individual differences in strategies\nThis modelling work helps us understand transitions in strategy-use within a skill learning experiment"
+    "text": "GitHub Repository\nPython · Classification · Regression · Tree-based models\n\nBuilt an end-to-end modeling pipeline to predict the adoption of an add-on for a software product using data from 25,000+ clients and 1.5M+ transaction-level time-series observations.\nEngineered features from time-series data that captured the business periodicity, which turned out to predict client adoption\nCompared predictive models from logistic regression and XGBoost to achieve predictive power with minimal model complexity\nMain deliverable was a ranking table of the top 10–15% of merchants for targeted marketing. I also used model coefficients to identify drivers of subscription adoption"
   },
   {
     "objectID": "projects.html#predicting-client-product-adoption-of-online-payment-software",
